@@ -7,7 +7,8 @@ INSERT DESCRIPTION
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Java</b> 
+- <b>Java</b>
+- <b>Data Structures/Algorithms</b> 
 
 <h2>Environments Used </h2>
 
