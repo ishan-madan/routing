@@ -72,25 +72,25 @@ This project consists of several Java classes designed to provide functionality 
    - **Step 1: Starting the Program**
      - Open the project folder, navigate to the `src` folder, open the `GraphDemo.java` file, and run the `main` method.
    <p align="center">
-   <img src="ReadMe%20Images/step1.png" height="60%" width="60%" alt="Image Analysis Dataflow"/>
+   <img src="ReadMe%20Images/step1.png" height="60%" width="60%" alt="Finding the main method"/>
    </p>
 
    - **Step 2: Input Origin Location**
      - Input the origin location in the City State format in the terminal (e.g. New York NY)
    <p align="center">
-   <img src="ReadMe%20Images/step2.png" height="60%" width="60%" alt="Image Analysis Dataflow"/>
+   <img src="ReadMe%20Images/step2.png" height="60%" width="60%" alt="Inputting Durham NC as the origin location"/>
    </p>
 
    - **Step 3: Input Destination Location**
      - Input the destination location in the City State format in the terminal (e.g. New York NY)
    <p align="center">
-   <img src="ReadMe%20Images/step3.png" height="60%" width="60%" alt="Image Analysis Dataflow"/>
+   <img src="ReadMe%20Images/step3.png" height="60%" width="60%" alt="Inputting Sacramento CA as the destination location"/>
    </p>
 
    - **Step 4: Routing**
      - Watch as the program maps your route from the origin to the destination!
    <p align="center">
-   <img src="ReadMe%20Images/step4.png" height="60%" width="60%" alt="Image Analysis Dataflow"/>
+   <img src="ReadMe%20Images/step4.png" height="60%" width="60%" alt="Routing"/>
    </p>
 
 
