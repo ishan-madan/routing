@@ -7,6 +7,7 @@ This project consists of several Java classes designed to provide functionality 
 
 ### 1. StdDraw.java
 **Overview:** Provides a simple graphics library for drawing shapes, lines, text, and handling mouse and keyboard interactions.
+<br/><br/>
 **Key Features:**
 - Drawing basic shapes: squares, circles, polygons.
 - Setting pen color and radius.
@@ -17,6 +18,7 @@ This project consists of several Java classes designed to provide functionality 
 
 ### 2. Point.java
 **Overview:** Represents an immutable latitude-longitude coordinate point on Earth.
+<br/><br/>
 **Key Features:**
 - Calculates straight-line distance between points using the Haversine formula.
 - Implements Comparable interface for sorting.
@@ -24,6 +26,7 @@ This project consists of several Java classes designed to provide functionality 
 
 ### 3. GraphProcessor.java
 **Overview:** Manages a weighted graph of latitude-longitude points and supports various distance and routing operations.
+<br/><br/>
 **Key Features:**
 - Reads graph data from a .graph file to initialize points and edges.
 - Finds the nearest point to a given point in the graph.
@@ -34,6 +37,7 @@ This project consists of several Java classes designed to provide functionality 
 
 ### 4. GraphDemo.java
 **Overview:** Demonstrates the usage of GraphProcessor and Point classes in a practical scenario.
+<br/><br/>
 **Key Features:**
 - Reads input data from usa.graph and uscities.csv to populate graph data.
 - Prompts user for starting and ending points via console input.
