@@ -1,9 +1,9 @@
- # $\textsf{\color{lime} Routing}$
+ # $\textsf{\color{skyblue} Routing}$
 
-## $\textsf{\color{purple} Description}$
+## $\textsf{\color{lightgreen} Description}$
 This project consists of several Java classes designed to provide functionality for graphics drawing, geographical calculations, and graph operations.
 
-## $\textsf{\color{purple} Class Overview}$
+## $\textsf{\color{lightgreen} Class Overview}$
 
 ### 1. StdDraw.java
 **Overview:** Provides a simple graphics library for drawing shapes, lines, text, and handling mouse and keyboard interactions.
@@ -44,13 +44,13 @@ This project consists of several Java classes designed to provide functionality 
 - Uses visualization (assumed Visualize class) to draw routes on a map.
 - Measures and displays computational time for route calculation.
 
-## $\textsf{\color{purple} Languages and Utilities Used}$
+## $\textsf{\color{lightgreen} Languages and Utilities Used}$
 - Java
 - Data Structures and Agorithms
 
-# $\textsf{\color{lime} Autocomplete Program Walkthrough}$
+# $\textsf{\color{skyblue} Autocomplete Program Walkthrough}$
 
-## $\textsf{\color{purple} Cloning the Repository}$
+## $\textsf{\color{lightgreen} Cloning the Repository}$
 
 1. **Clone the Repository:**
    - Open your terminal or command prompt.
@@ -61,7 +61,7 @@ This project consists of several Java classes designed to provide functionality 
      ```
      Replace `<repository_url>` with the actual URL of your GitHub repository.
 
-## $\textsf{\color{purple} Setting Up the Environment}$
+## $\textsf{\color{lightgreen} Setting Up the Environment}$
 
 2. **Environment Setup:**
    - Ensure you have Java installed on your system. You can check by running:
@@ -70,7 +70,7 @@ This project consists of several Java classes designed to provide functionality 
      ```
    - Install any necessary IDE (Integrated Development Environment) such as IntelliJ IDEA, Eclipse, or use a text editor like Visual Studio Code.
 
-## $\textsf{\color{purple} Program Walkthrough}$
+## $\textsf{\color{lightgreen} Program Walkthrough}$
 
 3. **Program Walkthrough:**
    - **Step 1: Starting the Program**
